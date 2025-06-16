@@ -25,13 +25,39 @@
 // " " -> false
 // "hitesh" -> true
 
-let someNumber = 123
-let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let someNumber = 123
+// let stringNumber = String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 
+// let value = 23
+// let negvalue = -value
+// console.log(negvalue);
 
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2%2);
 
+// let str1 = " hello "
+// let str2 = " mamta "
 
+// let str3 = str1 + str2
+// console.log(str3)
 
+// console.log("1" +2);
+// console.log(1+ "2");
+
+// console.log("1" + 2 + 2);
+// console.log(2 + 1 + "2");
+
+let value = 2;
+let negvalue = -value;
+console.log(negvalue);
+
+//****Operation****//
+
+ 
