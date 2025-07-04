@@ -1,3 +1,5 @@
-let isLoggedIn = 1
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(booleanIsLoggedIn);
+const Score = 10
+console.log(Score);
+console.log(typeof(Score));
+
+
